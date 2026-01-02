@@ -1,0 +1,19 @@
+
+{
+  "name": "loyalty-system-demo",
+  "version": "1.0.0",
+  "description": "Sample Loyalty Platform Integration",
+  "main": "test_loyalty_flow.ts",
+  "scripts": {
+    "test": "ts-node test_loyalty_flow.ts"
+  },
+  "dependencies": {
+    "uuid": "^9.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "@types/uuid": "^9.0.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.0"
+  }
+}
